@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Here to test if Git add and commit work
+
 #This bash script is used to backup a user's home directory to /Desktop
 
 user=$(whoami)
